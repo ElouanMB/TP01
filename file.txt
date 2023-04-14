@@ -1,1 +1,4 @@
+<<<<<< HEAD
 Salut tout le monde ! 
+=======
+
